@@ -1,0 +1,110 @@
+c:\users\nwanjoku\documents\visual studio 2013\Projects\IetechProjects\15032015\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll.config
+c:\users\nwanjoku\documents\visual studio 2013\Projects\IetechProjects\15032015\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll
+c:\users\nwanjoku\documents\visual studio 2013\Projects\IetechProjects\15032015\TechClearingWS\TechClearingWS\bin\TechClearingWS.pdb
+c:\users\nwanjoku\documents\visual studio 2013\Projects\IetechProjects\15032015\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+c:\users\nwanjoku\documents\visual studio 2013\Projects\IetechProjects\15032015\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.dll
+c:\users\nwanjoku\documents\visual studio 2013\Projects\IetechProjects\15032015\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.pdb
+H:\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll.config
+H:\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll
+H:\TechClearingWS\TechClearingWS\bin\TechClearingWS.pdb
+H:\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.dll
+H:\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Application\VS2013\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Application\VS2013\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll
+C:\Application\VS2013\TechClearingWS\TechClearingWS\bin\TechClearingWS.pdb
+C:\Application\VS2013\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Application\VS2013\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Application\VS2013\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Application\VS2013\TechClearingWS\TechClearingWS\bin\Sybase.AdoNet2.AseClient.dll
+C:\Users\El_Nuell\Desktop\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\El_Nuell\Desktop\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\El_Nuell\Desktop\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\El_Nuell\Desktop\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\El_Nuell\Desktop\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\El_Nuell\Desktop\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - (tci_post_3)\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - (tci_post_3)\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - (tci_post_3)\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - (tci_post_3)\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - (tci_post_3)\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - (tci_post_3)\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\IETECH\Documents\GM\TechClearingWS_Source\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\Dilichukwu\Documents\IETECH\Tech Clearing GH\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\Dilichukwu\Documents\IETECH\Tech Clearing GH\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\Dilichukwu\Documents\IETECH\Tech Clearing GH\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\Dilichukwu\Documents\IETECH\Tech Clearing GH\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\Dilichukwu\Documents\IETECH\Tech Clearing GH\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\ReconTest\Documents\New folder\New folder\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\ReconTest\Documents\New folder\New folder\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\ReconTest\Documents\New folder\New folder\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\ReconTest\Documents\New folder\New folder\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Users\ReconTest\Documents\New folder\New folder\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\ReconTest\Documents\New folder\New folder\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\bin\ImpersonateProject.dll
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\bin\EntityFramework.xml
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\bin\EntityFramework.SqlServer.xml
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\bin\SwiftMessageMAN.pdb
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\bin\ImpersonateProject.pdb
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\IETECH\Documents\TechClearing GH BckUp\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\ReconTest\Desktop\Deploy\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\ReconTest\Desktop\Deploy\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\ReconTest\Desktop\Deploy\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\ReconTest\Desktop\Deploy\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\ReconTest\Desktop\Deploy\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\ReconTest\Desktop\Deploy\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Application\IETech\TPMPlus Project\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Application\IETech\TPMPlus Project\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.dll
+C:\Application\IETech\TPMPlus Project\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\bin\TechClearingWS.pdb
+C:\Application\IETech\TPMPlus Project\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Application\IETech\TPMPlus Project\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.csproj.CoreCompileInputs.cache
+C:\Application\IETech\TPMPlus Project\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Application\IETech\TPMPlus Project\TechClearingWS - Ghana\TechClearingWS - Ghana\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\agond\Documents\TPMPlus SL\TPMPlus_Usman\TechClearingWS - Ghana_usman\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\agond\Documents\TPMPlus SL\TPMPlus_Usman\TechClearingWS - Ghana_usman\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\agond\Documents\TPMPlus SL\TPMPlus_Usman\TechClearingWS - Ghana_usman\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\agond\Documents\TPMPlus SL\TPMPlus_Usman\TechClearingWS - Ghana_usman\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Users\agond\Documents\TPMPlus SL\TPMPlus_Usman\TechClearingWS - Ghana_usman\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\agond\Documents\TPMPlus SL\TPMPlus_Usman\TechClearingWS - Ghana_usman\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\Users\ab\Documents\TPMPlus SL\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Users\ab\Documents\TPMPlus SL\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.dll
+C:\Users\ab\Documents\TPMPlus SL\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.pdb
+C:\Users\ab\Documents\TPMPlus SL\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.csprojResolveAssemblyReference.cache
+C:\Users\ab\Documents\TPMPlus SL\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Users\ab\Documents\TPMPlus SL\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.pdb
+C:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.dll.config
+C:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.dll
+C:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.pdb
+C:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.csprojAssemblyReference.cache
+C:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.csproj.CopyComplete
+C:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.pdb
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.dll.config
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.dll
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\bin\TechClearingWS.pdb
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.csprojAssemblyReference.cache
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.csproj.CopyComplete
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.dll
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS_SL\TechClearingWS\obj\Debug\TechClearingWS.pdb
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll.config
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\bin\TechClearingWS.pdb
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csprojAssemblyReference.cache
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csproj.CopyComplete
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.dll
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.pdb
+D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csproj.CoreCompileInputs.cache
