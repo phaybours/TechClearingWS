@@ -88,6 +88,11 @@
       <DependentUpon>Service1.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="ServiceUtility\PostingRequest.cs" />
+    <Compile Include="ServiceUtility\PostingRequest2.cs" />
+    <Compile Include="ServiceUtility\PostingResponse.cs" />
+    <Compile Include="ServiceUtility\ProcessingDateResponse.cs" />
+    <Compile Include="ServiceUtility\ReleaseFundRequest.cs" />
     <Compile Include="ServiceUtility\ServiceCall.cs" />
     <Compile Include="SmartObject.cs" />
   </ItemGroup>

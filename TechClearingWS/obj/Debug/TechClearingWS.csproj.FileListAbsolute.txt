@@ -108,3 +108,11 @@ D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\T
 D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.dll
 D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.pdb
 D:\IETECH\TPMPLUS LIVE STATUS\Sierra Leone\TPMPlus SL_23Dec2019\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csproj.CoreCompileInputs.cache
+C:\Sam_Personal\Sam_Personal\Projects\TechClearingWS\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll.config
+C:\Sam_Personal\Sam_Personal\Projects\TechClearingWS\TechClearingWS\TechClearingWS\bin\TechClearingWS.dll
+C:\Sam_Personal\Sam_Personal\Projects\TechClearingWS\TechClearingWS\TechClearingWS\bin\TechClearingWS.pdb
+C:\Sam_Personal\Sam_Personal\Projects\TechClearingWS\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csproj.AssemblyReference.cache
+C:\Sam_Personal\Sam_Personal\Projects\TechClearingWS\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csproj.CoreCompileInputs.cache
+C:\Sam_Personal\Sam_Personal\Projects\TechClearingWS\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.csproj.CopyComplete
+C:\Sam_Personal\Sam_Personal\Projects\TechClearingWS\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.dll
+C:\Sam_Personal\Sam_Personal\Projects\TechClearingWS\TechClearingWS\TechClearingWS\obj\Debug\TechClearingWS.pdb
